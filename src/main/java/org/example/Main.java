@@ -19,6 +19,9 @@ public class Main {
         DeclareVariableDouble declareVariableDouble1 = new DeclareVariableDouble();
         declareVariableDouble1.printDouble();
 
+        //What will be the output of the following code?
+
+
 
     }
 
